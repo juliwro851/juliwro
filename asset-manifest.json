@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/juliwro851/juliwro/static/css/main.389d23d6.css",
+    "main.js": "/juliwro851/juliwro/static/js/main.d303f499.js",
+    "index.html": "/juliwro851/juliwro/index.html",
+    "main.389d23d6.css.map": "/juliwro851/juliwro/static/css/main.389d23d6.css.map",
+    "main.d303f499.js.map": "/juliwro851/juliwro/static/js/main.d303f499.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.389d23d6.css",
+    "static/js/main.d303f499.js"
+  ]
+}
