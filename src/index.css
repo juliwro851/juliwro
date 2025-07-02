@@ -1,10 +1,14 @@
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  text-align: center;
-  background-color: #f0f0f0;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-h1 {
-  color: #333;
+.border-frame {
+  border-width: 60px; /* dostosuj do wielkości ramki na obrazku */
+  border-style: solid;
+  border-image-source: url('./images/FrameWeb.png');
+  border-image-slice: 60 fill; /* 40 px od każdego brzegu - dostosuj */
+  border-image-repeat: stretch;
+  border-image-outset: 0;
+  border-image-width: 60px;
+  box-sizing: border-box;
 }
