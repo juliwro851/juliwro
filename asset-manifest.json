@@ -1,13 +1,25 @@
 {
   "files": {
-    "main.css": "/juliwro/static/css/main.389d23d6.css",
-    "main.js": "/juliwro/static/js/main.d303f499.js",
+    "main.css": "/juliwro/static/css/main.a98745b2.css",
+    "main.js": "/juliwro/static/js/main.4d81ea33.js",
+    "static/media/project2-1.gif": "/juliwro/static/media/project2-1.e9a1d9987839c6c91899.gif",
+    "static/media/project3-2.gif": "/juliwro/static/media/project3-2.9f68412c3aab26146444.gif",
+    "static/media/achivement3.jpg": "/juliwro/static/media/achivement3.a2e0776c46979f6079f8.jpg",
+    "static/media/project1-1.gif": "/juliwro/static/media/project1-1.ad88941f48025a857fa7.gif",
+    "static/media/project1-3.gif": "/juliwro/static/media/project1-3.4f415b662d8fd9779c32.gif",
+    "static/media/project2-2.png": "/juliwro/static/media/project2-2.bb63063eee68a60baa93.png",
+    "static/media/project1-2.gif": "/juliwro/static/media/project1-2.8f5b22a1cfbf32790b84.gif",
+    "static/media/project2-3.png": "/juliwro/static/media/project2-3.7b6c9cc42cba173471cb.png",
+    "static/media/project3-1.png": "/juliwro/static/media/project3-1.6fcde3230fcb9ace0e90.png",
+    "static/media/project3-3.png": "/juliwro/static/media/project3-3.66113728cff29d1016cf.png",
+    "static/media/achivement1.jpg": "/juliwro/static/media/achivement1.ba63a13bda59dd67cfc9.jpg",
+    "static/media/achivement2.jpg": "/juliwro/static/media/achivement2.17c56d2c76783c6d4dfb.jpg",
     "index.html": "/juliwro/index.html",
-    "main.389d23d6.css.map": "/juliwro/static/css/main.389d23d6.css.map",
-    "main.d303f499.js.map": "/juliwro/static/js/main.d303f499.js.map"
+    "main.a98745b2.css.map": "/juliwro/static/css/main.a98745b2.css.map",
+    "main.4d81ea33.js.map": "/juliwro/static/js/main.4d81ea33.js.map"
   },
   "entrypoints": [
-    "static/css/main.389d23d6.css",
-    "static/js/main.d303f499.js"
+    "static/css/main.a98745b2.css",
+    "static/js/main.4d81ea33.js"
   ]
 }
