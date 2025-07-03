@@ -4,8 +4,8 @@ import project1_3 from './images/project1-3.gif';
 import project2_1 from './images/project2-1.gif';
 import project2_2 from './images/project2-2.png';
 import project2_3 from './images/project2-3.png';
-import project3_1 from './images/project3-1.gif';
-import project3_2 from './images/project3-2.png';
+import project3_1 from './images/project3-1.png';
+import project3_2 from './images/project3-2.gif';
 import project3_3 from './images/project3-3.png';
 
 const portfolioProjects = [
